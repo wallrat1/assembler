@@ -1,0 +1,32 @@
+[
+    {
+        "command": "READ",
+        "args": [
+            1,
+            10
+        ]
+    },
+    {
+        "command": "WRITE",
+        "args": [
+            1,
+            20
+        ]
+    },
+    {
+        "command": "ADD",
+        "args": [
+            1,
+            2,
+            30
+        ]
+    },
+    {
+        "command": "SUB",
+        "args": [
+            1,
+            2,
+            40
+        ]
+    }
+]
